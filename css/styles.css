@@ -33,6 +33,23 @@ h4
 }
 
 .about-me {
-    width: 500px;
+    width: 600px;
     margin: auto;
 }
+
+ul {
+    list-style-type: circle;
+  }
+
+
+  .my-projects {
+    text-align: center;
+  }
+
+
+  ul.projectlist {
+    display: inline-block;
+    text-align: left;
+  }
+
+  
