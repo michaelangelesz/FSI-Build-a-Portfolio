@@ -37,9 +37,7 @@ h4
     margin: auto;
 }
 
-ul {
-    list-style-type: circle;
-  }
+
 
 
   .my-projects {
@@ -50,6 +48,7 @@ ul {
   ul.projectlist {
     display: inline-block;
     text-align: left;
+    list-style-type: circle;
   }
 
   
