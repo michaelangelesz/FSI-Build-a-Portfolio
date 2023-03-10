@@ -38,12 +38,16 @@ h4
     padding-left: 33px;
     padding-right: 33px;
     font-family: arial;
+    font-size: 19px;
 }
 
 
-
+.hey {
+    font-size: 19px;
+}
 
   .container {
+    font-size: 19px;
     font-family: arial;
     text-align: center;
   }
@@ -59,4 +63,5 @@ h4
   
   .contact-section {
     font-family: arial;
+    font-size: 19px;
   }
