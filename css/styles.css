@@ -16,10 +16,12 @@ h2
     font-size: 33px;
 }
 
+
 h3{
     font-family: arial;
     font-size: 19px;
 }
+
 
 h4
 {
@@ -43,14 +45,17 @@ h4
 }
 
 
-.hey {
+.my-projects {
     font-size: 19px;
 }
+
 
   .container {
     font-size: 15px;
     font-family: arial;
     text-align: center;
+    padding-left: 33px;
+    padding-right: 33px;
   }
 
 
@@ -62,11 +67,11 @@ h4
   }
 
   
-  .contact-section {
+  .contact-me {
     font-family: arial;
     font-size: 15px;
   }
 
 
-  
+
   /*The reason scuba divers fall backwards is because if they fell forward, they’d end up back in the boat*/
